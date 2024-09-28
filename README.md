@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @Prof-chaos-5
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning python
+- Hi, I’m Prasoon Sharma
+- Aspiring Data Scientist
+- Currently Pursuing B.Tech in CSE
+- Love to work with AI/ML models and their Fine Tuning
+
+
+
+
 
 
 <!---
