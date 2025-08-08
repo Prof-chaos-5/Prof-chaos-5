@@ -1,14 +1,36 @@
-- Hi, I’m Prasoon Sharma
-- Aspiring Data Scientist
-- Currently Pursuing B.Tech in CSE
-- Love to work with AI/ML models and their Fine Tuning
+# Hi there 👋, I'm Prasoon Sharma
 
+🎓 **B.Tech in Computer Science & Engineering** | GB Pant Engineering College, New Delhi  
+🔍 **Aspiring Data Scientist & AI Researcher** passionate about building intelligent systems and solving complex problems through machine learning, deep learning, and automation.
 
+---
 
+## 🚀 About Me
+- **Research Intern** at *IIT Roorkee* — Worked on intelligent systems for content generation, system automation, and user-centric applications. Integrated LLMs, RAG, LangChain, and LangGraph into scalable workflows.
+- **Research Intern** at *ISRO-IIRS* — Applied AI/ML in geospatial applications, including CNN, RNN, RCNN, SSD, and YOLO, along with Google Earth Engine.
+- **Projects** include OCR systems, automation tools, and AI-driven applications.
 
+---
 
+## 🛠 Technical Skills
+**Programming:** Python \| Rust \| C++  
+**Machine Learning:** Deep Learning \| LLMs \| RAG \| LangChain \| LangGraph \| Transformers \| TensorFlow  
+**Tools & Frameworks:** Google Earth Engine \| Jupyter \| Gradio \| OpenCV \| PyTorch  
+**Databases:** SQL \| RDBMS  
 
-<!---
-Prof-chaos-5/Prof-chaos-5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📌 Featured Projects
+- **[OCR Gradio App](https://github.com/Prof-chaos-5/OCR-APP)** — OCR system using Qwen-VL, Gradio, and OpenCV preprocessing.
+- More projects in repositories below ⬇️
+
+---
+
+## 📫 Connect with Me
+- 📧 [btech41523161@gmail.com](mailto:btech41523161@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/prasoon-sharma-a7a035290/)  
+- 🐙 [GitHub](https://github.com/Prof-chaos-5)
+
+---
+
+> *"Turning ideas into intelligent, scalable solutions."*
