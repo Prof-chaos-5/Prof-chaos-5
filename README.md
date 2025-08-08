@@ -22,7 +22,6 @@
 
 ## 📌 Featured Projects
 - **[OCR Gradio App](https://github.com/Prof-chaos-5/OCR-APP)** — OCR system using Qwen-VL, Gradio, and OpenCV preprocessing.
-- More projects in repositories below ⬇️
 
 ---
 
