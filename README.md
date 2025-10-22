@@ -28,10 +28,10 @@
 ---
 
 ## 📫 Connect with Me
-- 📧 [btech41523161@gmail.com](mailto:btech41523161@gmail.com)  
+- 📧 [btech41523161@gmail.com](mailto:prasoonsharmagc@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/prasoon-sharma-a7a035290/)  
 - 🐙 [GitHub](https://github.com/Prof-chaos-5)
 
 ---
 
-> *"Turning ideas into intelligent, scalable solutions."*
+> *"Beyond Syntax, Towards Solutions"*
