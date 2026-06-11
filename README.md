@@ -21,7 +21,7 @@
 ---
 
 ## 📌 Featured Projects
-- **[Disha-Darshak-AI](https://github.com/thehimanshubansal/Disha-Darshak-AI)** — Disha Darshak AI is an AI-powered platform that offers personalized career guidance using Google’s Vertex AI.
+- **[Nexora](https://github.com/Prof-chaos-5/Nexora)** — Disha Darshak AI is an AI-powered platform that offers personalized career guidance using Google’s Vertex AI.
 - **[OCR Gradio App](https://github.com/Prof-chaos-5/OCR-APP)** — OCR system using Qwen-VL, Gradio, and OpenCV preprocessing.
 
 
