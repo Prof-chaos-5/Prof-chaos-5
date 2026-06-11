@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - **Research Intern** at *IIT Roorkee* — Worked on intelligent systems for content generation, system automation, and user-centric applications. Integrated LLMs, RAG, LangChain, and LangGraph into scalable workflows.
-- **Research Intern** at *ISRO-IIRS* — Applied AI/ML in geospatial applications, including CNN, RNN, RCNN, SSD, and YOLO, along with Google Earth Engine.
+- **Virtual Training** at *ISRO-IIRS* — Applied AI/ML in geospatial applications, including CNN, RNN, RCNN, SSD, and YOLO, along with Google Earth Engine.
 - **Projects** include OCR systems, automation tools, and AI-driven applications.
 
 ---
