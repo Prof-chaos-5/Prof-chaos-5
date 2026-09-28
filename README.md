@@ -76,14 +76,14 @@
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/Prof-chaos-5/GhostReveal">
-###Ghost Reveal
+Ghost Reveal
 </a>
 <br/>EfficientNetV2-B3 in TensorFlow · <b>96.9% acc, 0.973 AUC</b> · Grad-CAM<br/>
 <a href="https://ghost-reveal-v1.vercel.app/">🔗 Live demo</a>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/Prof-chaos-5/Nexora">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prof-chaos-5&repo=Nexora&theme=tokyonight&hide_border=true" alt="Nexora" />
+Nexora
 </a>
 <br/>Multi-agent career platform · Next.js + Vertex AI · 🏆 <b>Top 10, GenAI Exchange</b>
 </td>
@@ -91,14 +91,14 @@
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/Prof-chaos-5/SHL_Recommender">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prof-chaos-5&repo=SHL_Recommender&theme=tokyonight&hide_border=true" alt="SHL Recommender" />
+SHL Recommender
 </a>
 <br/>BM25 retrieval API · memory <b>900 → 210 MB</b>, Recall@10 &gt; 0.75<br/>
 <a href="https://shl-recommender-k7yn.onrender.com/docs#/">🔗 Live API</a>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/Prof-chaos-5/OCR-APP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prof-chaos-5&repo=OCR-APP&theme=tokyonight&hide_border=true" alt="OCR App" />
+OCR App
 </a>
 <br/>OCR with Qwen-VL · Gradio · OpenCV preprocessing
 </td>
