@@ -106,17 +106,16 @@ OCR App
 </table>
 
 ---
-
-## 📊 GitHub Stats
+## 🎮 Contribution Game
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prof-chaos-5&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-chaos-5&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prof-chaos-5/Prof-chaos-5/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prof-chaos-5/Prof-chaos-5/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Prof-chaos-5/Prof-chaos-5/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
----
-
-<div align="center">
 
 *"Beyond Syntax, Towards Solutions"*
 
