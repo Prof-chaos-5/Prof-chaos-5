@@ -76,7 +76,7 @@
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/Prof-chaos-5/GhostReveal">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prof-chaos-5&repo=GhostReveal&theme=tokyonight&hide_border=true" alt="GhostReveal" />
+###Ghost Reveal
 </a>
 <br/>EfficientNetV2-B3 in TensorFlow · <b>96.9% acc, 0.973 AUC</b> · Grad-CAM<br/>
 <a href="https://ghost-reveal-v1.vercel.app/">🔗 Live demo</a>
