@@ -33,69 +33,71 @@
 
 <div align="center">
 
-### Languages & Core
+**Languages & Core**
 
-<img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python">
-<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript">
-<img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++">
-<img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash">
+<img
+  src="https://skillicons.dev/icons?i=py,ts,cpp,bash&perline=8"
+  alt="Python, TypeScript, C++, Bash"
+  title="Python • TypeScript • C++ • Bash"
+/>
 
-### ML / DL & Data
+**ML / DL & Data**
 
-<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch">
-<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow">
-<img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" title="Scikit-learn">
-<img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" title="OpenCV">
+<img
+  src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=8"
+  alt="PyTorch, TensorFlow, Scikit-learn, OpenCV"
+  title="PyTorch • TensorFlow • Scikit-learn • OpenCV"
+/>
 
 <a href="https://huggingface.co/">
   <img
     src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"
     alt="Hugging Face"
     title="Hugging Face"
-  >
+  />
 </a>
 
 <img
   src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"
   alt="LangChain"
   title="LangChain"
->
+/>
 
 <img
   src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"
   alt="LangGraph"
   title="LangGraph"
->
+/>
 
 <img
   src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white"
   alt="Gradio"
   title="Gradio"
->
+/>
 
 <img
   src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"
   alt="Google Earth Engine"
   title="Google Earth Engine"
->
+/>
 
-### Backend & Frontend
+**Backend & Frontend**
 
-<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI">
-<img src="https://skillicons.dev/icons?i=react" alt="React" title="React">
-<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js">
-<img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite">
+<img
+  src="https://skillicons.dev/icons?i=fastapi,react,nextjs,vite&perline=8"
+  alt="FastAPI, React, Next.js, Vite"
+  title="FastAPI • React • Next.js • Vite"
+/>
 
-### Cloud & DevOps
+**Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" title="Google Cloud Platform">
-<img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker">
-<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub">
-<img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions">
-<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel">
+<img
+  src="https://skillicons.dev/icons?i=gcp,docker,git,github,githubactions,vercel&perline=8"
+  alt="Google Cloud, Docker, Git, GitHub, GitHub Actions, Vercel"
+  title="Google Cloud • Docker • Git • GitHub • GitHub Actions • Vercel"
+/>
 
-### Retrieval & AI Concepts
+**Retrieval & AI Concepts**
 
 <img
   src="https://img.shields.io/badge/RAG-2C5364?style=flat-square"
@@ -129,20 +131,20 @@
 
 <img
   src="https://img.shields.io/badge/FAISS-2C5364?style=flat-square"
-  alt="FAISS Vector Search"
-  title="FAISS"
+  alt="FAISS"
+  title="FAISS Vector Search"
 >
 
 <img
   src="https://img.shields.io/badge/BM25-2C5364?style=flat-square"
-  alt="BM25 Sparse Retrieval"
+  alt="BM25"
   title="BM25 Sparse Retrieval"
 >
 
 <img
   src="https://img.shields.io/badge/Grad--CAM-2C5364?style=flat-square"
-  alt="Grad-CAM Explainability"
-  title="Grad-CAM"
+  alt="Grad-CAM"
+  title="Grad-CAM Explainability"
 >
 
 </div>
