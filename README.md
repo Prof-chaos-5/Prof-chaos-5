@@ -33,38 +33,117 @@
 
 <div align="center">
 
-**Languages & Core**
+### Languages & Core
 
-<img src="https://skillicons.dev/icons?i=py,ts,cpp,bash&perline=8" alt="languages" />
+<img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python">
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript">
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++">
+<img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash">
 
-**ML / DL & Data**
+### ML / DL & Data
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=8" alt="ml" />
+<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch">
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow">
+<img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" title="Scikit-learn">
+<img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" title="OpenCV">
 
-<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
-<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" alt="Earth Engine" />
+<a href="https://huggingface.co/">
+  <img
+    src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"
+    alt="Hugging Face"
+    title="Hugging Face"
+  >
+</a>
 
-**Backend & Frontend**
+<img
+  src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"
+  alt="LangChain"
+  title="LangChain"
+>
 
-<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,vite&perline=8" alt="web" />
+<img
+  src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"
+  alt="LangGraph"
+  title="LangGraph"
+>
 
-**Cloud & DevOps**
+<img
+  src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white"
+  alt="Gradio"
+  title="Gradio"
+>
 
-<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,githubactions,vercel&perline=8" alt="cloud" />
+<img
+  src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"
+  alt="Google Earth Engine"
+  title="Google Earth Engine"
+>
 
-**Retrieval & AI Concepts**
+### Backend & Frontend
 
-<img src="https://img.shields.io/badge/RAG-2C5364?style=flat-square" />
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-2C5364?style=flat-square" />
-<img src="https://img.shields.io/badge/Fine--tuning-2C5364?style=flat-square" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-2C5364?style=flat-square" />
-<img src="https://img.shields.io/badge/AI%20Evaluation-2C5364?style=flat-square" />
-<img src="https://img.shields.io/badge/FAISS-2C5364?style=flat-square" />
-<img src="https://img.shields.io/badge/BM25-2C5364?style=flat-square" />
-<img src="https://img.shields.io/badge/Grad--CAM-2C5364?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI">
+<img src="https://skillicons.dev/icons?i=react" alt="React" title="React">
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js">
+<img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite">
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" title="Google Cloud Platform">
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker">
+<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub">
+<img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions">
+<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel">
+
+### Retrieval & AI Concepts
+
+<img
+  src="https://img.shields.io/badge/RAG-2C5364?style=flat-square"
+  alt="Retrieval-Augmented Generation"
+  title="Retrieval-Augmented Generation (RAG)"
+>
+
+<img
+  src="https://img.shields.io/badge/Multi--Agent%20Systems-2C5364?style=flat-square"
+  alt="Multi-Agent Systems"
+  title="Multi-Agent Systems"
+>
+
+<img
+  src="https://img.shields.io/badge/Fine--tuning-2C5364?style=flat-square"
+  alt="Fine-tuning"
+  title="Fine-tuning"
+>
+
+<img
+  src="https://img.shields.io/badge/Prompt%20Engineering-2C5364?style=flat-square"
+  alt="Prompt Engineering"
+  title="Prompt Engineering"
+>
+
+<img
+  src="https://img.shields.io/badge/AI%20Evaluation-2C5364?style=flat-square"
+  alt="AI Evaluation"
+  title="AI Evaluation"
+>
+
+<img
+  src="https://img.shields.io/badge/FAISS-2C5364?style=flat-square"
+  alt="FAISS Vector Search"
+  title="FAISS"
+>
+
+<img
+  src="https://img.shields.io/badge/BM25-2C5364?style=flat-square"
+  alt="BM25 Sparse Retrieval"
+  title="BM25 Sparse Retrieval"
+>
+
+<img
+  src="https://img.shields.io/badge/Grad--CAM-2C5364?style=flat-square"
+  alt="Grad-CAM Explainability"
+  title="Grad-CAM"
+>
 
 </div>
 
