@@ -35,117 +35,36 @@
 
 **Languages & Core**
 
-<img
-  src="https://skillicons.dev/icons?i=py,ts,cpp,bash&perline=8"
-  alt="Python, TypeScript, C++, Bash"
-  title="Python • TypeScript • C++ • Bash"
-/>
+<img src="https://skillicons.dev/icons?i=py,ts,cpp,bash&perline=8" alt="languages" />
 
 **ML / DL & Data**
 
-<img
-  src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=8"
-  alt="PyTorch, TensorFlow, Scikit-learn, OpenCV"
-  title="PyTorch • TensorFlow • Scikit-learn • OpenCV"
-/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=8" alt="ml" />
 
-<a href="https://huggingface.co/">
-  <img
-    src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"
-    alt="Hugging Face"
-    title="Hugging Face"
-  />
-</a>
-
-<img
-  src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"
-  alt="LangChain"
-  title="LangChain"
-/>
-
-<img
-  src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"
-  alt="LangGraph"
-  title="LangGraph"
-/>
-
-<img
-  src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white"
-  alt="Gradio"
-  title="Gradio"
-/>
-
-<img
-  src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"
-  alt="Google Earth Engine"
-  title="Google Earth Engine"
-/>
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
+<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" alt="Earth Engine" />
 
 **Backend & Frontend**
 
-<img
-  src="https://skillicons.dev/icons?i=fastapi,react,nextjs,vite&perline=8"
-  alt="FastAPI, React, Next.js, Vite"
-  title="FastAPI • React • Next.js • Vite"
-/>
+<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,vite&perline=8" alt="web" />
 
 **Cloud & DevOps**
 
-<img
-  src="https://skillicons.dev/icons?i=gcp,docker,git,github,githubactions,vercel&perline=8"
-  alt="Google Cloud, Docker, Git, GitHub, GitHub Actions, Vercel"
-  title="Google Cloud • Docker • Git • GitHub • GitHub Actions • Vercel"
-/>
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,githubactions,vercel&perline=8" alt="cloud" />
 
 **Retrieval & AI Concepts**
 
-<img
-  src="https://img.shields.io/badge/RAG-2C5364?style=flat-square"
-  alt="Retrieval-Augmented Generation"
-  title="Retrieval-Augmented Generation (RAG)"
->
-
-<img
-  src="https://img.shields.io/badge/Multi--Agent%20Systems-2C5364?style=flat-square"
-  alt="Multi-Agent Systems"
-  title="Multi-Agent Systems"
->
-
-<img
-  src="https://img.shields.io/badge/Fine--tuning-2C5364?style=flat-square"
-  alt="Fine-tuning"
-  title="Fine-tuning"
->
-
-<img
-  src="https://img.shields.io/badge/Prompt%20Engineering-2C5364?style=flat-square"
-  alt="Prompt Engineering"
-  title="Prompt Engineering"
->
-
-<img
-  src="https://img.shields.io/badge/AI%20Evaluation-2C5364?style=flat-square"
-  alt="AI Evaluation"
-  title="AI Evaluation"
->
-
-<img
-  src="https://img.shields.io/badge/FAISS-2C5364?style=flat-square"
-  alt="FAISS"
-  title="FAISS Vector Search"
->
-
-<img
-  src="https://img.shields.io/badge/BM25-2C5364?style=flat-square"
-  alt="BM25"
-  title="BM25 Sparse Retrieval"
->
-
-<img
-  src="https://img.shields.io/badge/Grad--CAM-2C5364?style=flat-square"
-  alt="Grad-CAM"
-  title="Grad-CAM Explainability"
->
+<img src="https://img.shields.io/badge/RAG-2C5364?style=flat-square" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-2C5364?style=flat-square" />
+<img src="https://img.shields.io/badge/Fine--tuning-2C5364?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-2C5364?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Evaluation-2C5364?style=flat-square" />
+<img src="https://img.shields.io/badge/FAISS-2C5364?style=flat-square" />
+<img src="https://img.shields.io/badge/BM25-2C5364?style=flat-square" />
+<img src="https://img.shields.io/badge/Grad--CAM-2C5364?style=flat-square" />
 
 </div>
 
